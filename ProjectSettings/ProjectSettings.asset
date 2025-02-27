@@ -809,11 +809,11 @@ PlayerSettings:
   captureStartupLogs: {}
   activeInputHandler: 0
   windowsGamepadBackendHint: 0
-  cloudProjectId: 99f13c44-731a-4c22-a695-a1b78ffd4c78
+  cloudProjectId: 99a2b179-505b-41ba-b616-a088c6ca7cda
   framebufferDepthMemorylessMode: 0
   qualitySettingsNames: []
-  projectName: Lights Up - 2024
-  organizationId: usal-tadd4-pilar
+  projectName: Proyecto Final - LightsUp (2025)
+  organizationId: lightsup-iba-ez-ferreir-s-estevez
   cloudEnabled: 0
   legacyClampBlendShapeWeights: 0
   hmiLoadingImage: {fileID: 0}
