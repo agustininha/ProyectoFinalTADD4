@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Caverna_Mesa de trabajo 2_0: -5335425505495726063
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

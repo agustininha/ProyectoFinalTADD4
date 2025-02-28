@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/MainMenu.unity
+    path: Assets/Scenes/Menu.unity
     guid: 2cd0938e7073cc54e9700e89cf29acf4
   - enabled: 1
-    path: Assets/Scenes/intro.unity
+    path: Assets/Scenes/Texto Intro.unity
     guid: 0227472084f4e4c41978227ee369f4cb
   - enabled: 1
     path: Assets/Scenes/Niveles Bosque/Bosque 1.unity
@@ -27,19 +27,19 @@ EditorBuildSettings:
     path: Assets/Scenes/Niveles ciudad/BossCodicia.unity
     guid: f142d959c8d79ca409ac23f2a8791679
   - enabled: 1
-    path: Assets/Scenes/Niveles Caverna/Caverna 1.unity
+    path: Assets/Scenes/Niveles/Nivel 1 - Bosque.unity
     guid: 5292af53350427543b21dc429c4fdcc5
   - enabled: 1
-    path: Assets/Scenes/Niveles Caverna/Caverna 2.unity
+    path: "Assets/Scenes/Niveles/Nivel 2 - Monta\xF1a.unity"
     guid: c59031cb556309147954ef3e6a6de042
   - enabled: 1
-    path: Assets/Scenes/Niveles Caverna/Caverna 3.2.unity
+    path: Assets/Scenes/Niveles/Nivel 5 - Desierto.unity
     guid: 3cd90676f031cd04e8c67684289f1509
   - enabled: 1
-    path: Assets/Scenes/Niveles Caverna/Caverna 4.unity
+    path: Assets/Scenes/Niveles/Nivel 3 - Caverna.unity
     guid: b99953a99fe651e4caaf8f7bb1e6290f
   - enabled: 1
-    path: Assets/Scenes/Niveles Caverna/BossGula.unity
+    path: Assets/Scenes/Niveles/BossGula.unity
     guid: 5bfad2ca01603df4f953a6102bf5f2be
   - enabled: 1
     path: Assets/Scenes/Escena FInal.unity

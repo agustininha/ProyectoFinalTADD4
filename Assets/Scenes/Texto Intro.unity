@@ -916,13 +916,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   Text: {fileID: 656108334}
   TextLines:
-  - En un mundo donde la oscuridad lo habia devorado todo, Mitchum, una lampara desgastada
-    y sin brillo, vagaba sin rumbo.
-  - No recordaba cuando fue la ultima vez que su luz habia brillado, pero algo en
-    su interior la empujaba a seguir buscando.
-  - No era solo su luz lo que habia perdido, sino tambien una parte de si misma que
-    no lograba entender del todo.
-  - "Mitchum sentia el vacio, pero no tenia las palabras para describirlo\u2026"
+  - ERA LA UNICA ESPERANZA...
   Duration: 5
   Speed: 0.05
 --- !u!1 &2075204370
@@ -1043,6 +1037,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   pauseMenuUI: {fileID: 0}
+  Controlesmenu: {fileID: 0}
+  Levelmenu: {fileID: 0}
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
