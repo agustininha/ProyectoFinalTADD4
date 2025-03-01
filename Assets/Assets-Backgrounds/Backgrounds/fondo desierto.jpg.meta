@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fondo desierto_0: -6441012440850008064
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

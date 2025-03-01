@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "fondo monta\xF1a difuminado_0": -3685155058762915129
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -130,7 +130,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      "Monta\xF1a_0": 2745890584287625297
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
